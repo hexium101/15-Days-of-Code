@@ -16,3 +16,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    - Add links to your code submissions/projects  
 
 4. Keep pushing your changes every day!  
+
+### Day 1 (14 Oct 2025)
+   
+   1423. Maximum Points You Can Obtain from Cards [link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [My solution](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/1800666954/)
+
+   1358. Number of Substrings Containing All Three Characters [link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) [My solution](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/1800671752)
+
+   
