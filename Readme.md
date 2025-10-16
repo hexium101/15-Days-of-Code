@@ -22,5 +22,13 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    1423. Maximum Points You Can Obtain from Cards [link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [My solution](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/1800666954/)
 
    1358. Number of Substrings Containing All Three Characters [link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) [My solution](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/1800671752)
-
    
+### Day 2 (15 Oct 2025)
+
+   Watched complete playlist STL by luv [link](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
+
+### Day 3 (16 Oct 2025)
+
+   543. Diameter of Binary Tree [link](https://leetcode.com/problems/diameter-of-binary-tree/description/) [My solution](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1803681414)
+
+   110. Balanced Binary Tree [link](https://leetcode.com/problems/balanced-binary-tree/description/) [My solution](https://leetcode.com/problems/balanced-binary-tree/submissions/1803682191)
